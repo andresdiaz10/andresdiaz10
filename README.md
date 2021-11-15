@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **BDD, Cucumber, ISTQB certification exams**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
