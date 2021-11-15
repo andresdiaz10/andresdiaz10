@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrés Diaz</h1>
 <h3 align="center">A Software Testing and Automation developer</h3>
 
-- 🌱 I’m currently learning **BDD, Cucumber, ISTQB certification exams**
+- 🌱 I’m currently learning **BDD, Cucumber and preparing for ISTQB certification exams**
 
 <p align="left">
 </p>
